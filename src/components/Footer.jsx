@@ -43,7 +43,7 @@ const Footer = () => {
               <li>Phone: +254 769119350</li>
               <li>Email: sangaofficial42@gmail.com</li>
               <li>
-                <a href="https://wa.me/254711376496" className="whatsapp-link">
+                <a href="https://wa.me/254769119350" className="whatsapp-link">
                   Chat on WhatsApp
                 </a>
               </li>
