@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { FaFacebook, FaInstagram, FaTwitter, FaTripadvisor } from 'react-icons/fa';
 import logo from '../assets/images/hero-bg.jpg'; // Placeholder logo, replace with actual logo path
 
@@ -17,10 +17,10 @@ const Footer = () => {
               Discover beautiful beaches, marine life, and rich culture with us.
             </p>
             <div className="social-links">
-              <a href="#"><FaFacebook /></a>
+              <a href="#facebook"><FaFacebook /></a>
               <a href="https://www.instagram.com/sanga_tours/"><FaInstagram /></a>
-              <a href="#"><FaTwitter /></a>
-              <a href="#"><FaTripadvisor /></a>
+              <a href="#Twitter"><FaTwitter /></a>
+              <a href="#Trip"><FaTripadvisor /></a>
             </div>
           </div>
           
