@@ -51,7 +51,7 @@ const Offers = () => {
               <h3>{offer.title}</h3>
               <p>{offer.description}</p>
               <div className="offer-valid">{offer.validUntil}</div>
-              <a href="https://wa.me/254711376496" className="btn-small">
+              <a href="https://wa.me/254769119350" className="btn-small">
                 Book Now
               </a>
             </motion.div>
